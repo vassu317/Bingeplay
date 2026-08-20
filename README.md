@@ -82,6 +82,16 @@ ratings          User ratings for shows
 ### Q12 Churn Signal Detection
 - Total Churn Signal Users: 521
 
+## Learning Outcomes
+
+Through this project, I learned:
+
+Writing optimized SQL queries for business analytics.
+Using GROUP BY, HAVING, JOIN, and SUBQUERY.
+Working with Common Table Expressions (CTEs).
+Using Window Functions like ROW_NUMBER().
+Solving real-world analytics and churn detection problems.
+
 ## Repository Structure
 
 ```text
