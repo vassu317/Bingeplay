@@ -6,15 +6,16 @@ BingePlay is a fictional OTT streaming platform analytics project developed as p
 
 This project focuses on analyzing user behavior, subscriptions, watch sessions, ratings, revenue, engagement, upgrades, churn signals, and content performance using SQL.
 
-## Database Schema
+## Database Tables
 
-The project uses the following tables:
+The project uses five tables:
 
-1. Users
-2. Subscriptions
-3. Shows
-4. Watch_Sessions
-5. Ratings
+Table	           Description
+users	           User information and signup details
+subscriptions	   Subscription history and plan details
+shows	           OTT shows, IMDb ratings, and subscription tier
+watch_sessions	 User watch history and device usage
+ratings          User ratings for shows
 
 ## Technologies Used
 
