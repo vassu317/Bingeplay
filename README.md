@@ -1,5 +1,5 @@
 # Bingeplay
-# BingePlay Streaming Analytics Project
+# BingePlay_Streaming_Analytics_Project
 
 ## Overview
 BingePlay is a fictional OTT streaming platform analytics project developed as part of the Data Analytics & Data Science Track Minor Project.
